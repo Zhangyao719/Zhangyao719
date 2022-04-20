@@ -1,6 +1,6 @@
 ### Hey, Zero Zhang here!👋
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&theme=dark&show_icons=true">](https://metrics.lecoq.io/Zhangyao719#gh-dark-mode-only)
+<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&show_icons=true">
 
 I'm **Zhang Yao**, a front-end engineer.
 
@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&theme=dark&show_icons=true">
+![](https://metrics.lecoq.io/Zhangyao719#gh-dark-mode-only)
 -->
