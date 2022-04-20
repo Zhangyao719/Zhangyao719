@@ -1,5 +1,14 @@
-### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+### Hey, Zero Zhang here!👋
+
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&theme=dark&show_icons=true">](https://metrics.lecoq.io/Zhangyao719#gh-dark-mode-only)
+
+I'm **Zhang Yao**, a front-end engineer.
+
+- :hammer_and_pick: TypeScript / Vue / Nodejs / Egg / webpack / 
+- 🔭 I’m currently working on Tencent IEG
+- :man: Pronouns: he/him
+- 📫 Reach me: 1258858403@qq.com
+
 <!--
 **Zhangyao719/Zhangyao719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
