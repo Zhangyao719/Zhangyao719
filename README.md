@@ -4,7 +4,7 @@
 
 I'm **Zhang Yao**, a front-end engineer.
 
-- :hammer_and_pick: TypeScript / Vue / Nodejs / Egg / webpack / 
+- :hammer_and_pick: TypeScript / Vue / Nodejs / Egg / vite/webpack / 
 - 🔭 I’m currently working on Tencent IEG
 - :man: Pronouns: he/him
 - 📫 Reach me: 1258858403@qq.com
