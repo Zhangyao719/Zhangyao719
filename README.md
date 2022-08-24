@@ -21,11 +21,11 @@ I'm a front-end engineer, team member of Tencent WeTest.
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
+<code><img height="22" src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" /></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="visual-studio-code" /></code>
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <code><img height="22" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="webpack" /></code>
-<code><img height="22" src="https://eggjs.github.io/logo.svg" alt="egg" /></code>
+<code><img height="20" src="https://eggjs.github.io/logo.svg" alt="egg" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
