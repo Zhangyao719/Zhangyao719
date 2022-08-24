@@ -2,18 +2,35 @@
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&show_icons=true">
 
-I'm a front-end engineer, team member of Tencent WeTest. I like open source and all interesting things and want to try to do it.
-
-- 🔭 I’m currently working on IEG
-- :man: Pronouns: he/him
-- 📫 Reach me: 1258858403@qq.com
-----
+I'm a front-end engineer, team member of Tencent WeTest.
+##### Languages
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- languages:end -->
+##### Frameworks and Tools
+<!-- tools:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
+<code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
+<code><img height="22" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="webpack" /></code>
+<code><img height="22" src="https://eggjs.github.io/logo.svg" alt="egg" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- tools:end -->
+
+
 
 <!--
 **Zhangyao719/Zhangyao719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
