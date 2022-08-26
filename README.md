@@ -1,8 +1,8 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Hey, Zero Zhang here!
 
-<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&show_icons=true">
+- :hammer_and_pick: I'm a front-end engineer, team member of Tencent WeTest.
 
-I'm a front-end engineer, team member of Tencent WeTest.
+---
 ##### Languages
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
@@ -35,6 +35,7 @@ I'm a front-end engineer, team member of Tencent WeTest.
 <!-- tools:end -->
 
 
+<img src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&show_icons=true">
 
 <!--
 **Zhangyao719/Zhangyao719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
