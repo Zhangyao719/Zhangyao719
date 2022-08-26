@@ -1,5 +1,7 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Hey, Zero Zhang here!
 
+<img align="right" width="130" src="./assets/yeye (2).jpg">
+
 - :hammer_and_pick: I'm a front-end engineer, team member of Tencent WeTest.
 - 😄 I like open source and all interesting things and want to try to do it.
 - 🌱 View all my open-source blog in [juejin](https://juejin.cn/user/88440035084071/posts).
