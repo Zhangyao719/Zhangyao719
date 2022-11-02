@@ -38,9 +38,8 @@
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
 
+[![zamirzhang's github stats](https://github-readme-stats.vercel.app/api?username=Zhangyao719&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/chuzhixin/vue-admin-better)
 
-
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=Zhangyao719&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Zhangyao719/Zhangyao719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,7 +54,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&show_icons=true">
-<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&theme=dark&show_icons=true">
-![](https://metrics.lecoq.io/Zhangyao719#gh-dark-mode-only)
 -->
+
+<!-- 环形图 ↓ -->
+<!-- <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&show_icons=true"> -->
+<!-- <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Zhangyao719&theme=dark&show_icons=true"> -->
+
+<!-- 折线图 ↓ -->
+<!-- [![Activity graph](https://activity-graph.herokuapp.com/graph?username=Zhangyao719&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
