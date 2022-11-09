@@ -19,6 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
 <code><img height="20" width="20" src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" alt="yarn" /></code>
 <code><img height="20" src="https://d33wubrfki0l68.cloudfront.net/2f3acb83b7d2349f2194bc38c0f22f295908dc33/6a6e6/zh/img/pnpm-no-name-with-frame.svg" alt="pnpm" /></code>
+<code><img height="22" src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
@@ -27,7 +28,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="22" src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" /></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="visual-studio-code" /></code>
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <code><img height="22" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="webpack" /></code>
