@@ -34,8 +34,8 @@
 <code><img height="22" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="webpack" /></code>
 <code><img height="20" src="https://eggjs.github.io/logo.svg" alt="egg" /></code>
 <code><img height="20" src="https://www.antdv.com/assets/logo.1ef800a8.svg" alt="antd" /></code>
+<code><img height="20" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antd" /></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/68583457?s=200&v=4" alt="element-plus" /></code>
-<code><img height="21" src="./assets/echarts.png" alt="echarts" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
